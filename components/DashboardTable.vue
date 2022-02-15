@@ -209,7 +209,7 @@ thead th:nth-child(4){
     min-width: 150px;  
 }
 thead th:nth-child(5){
-    min-width: 250px;  
+    min-width: 150px;  
 }
 thead th:nth-child(6){
     min-width: 300px;  
